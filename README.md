@@ -29,3 +29,4 @@ contract HOPE is ERC20, Ownable {
         _burn(msg.sender, amount);
     }
 }
+0xf9fbd0ca9498f98507a7abafee15a78411d2b8f5f3996696b88bdcccc0973dd3
